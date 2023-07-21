@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmas_playbook=self.webpackChunkmas_playbook||[]).push([[4809],{1624:function(t,n,o){o.r(n),o.d(n,{_frontmatter:function(){return s},default:function(){return m}});var e=o(3366),a=(o(7294),o(4983)),r=o(4497),u=["components"],s={title:"IBM Maximo REST API Guide"},c={_frontmatter:s},i=r.Z;function m(t){var n=t.components,o=(0,e.Z)(t,u);return(0,a.kt)(i,Object.assign({},c,o,{components:n,mdxType:"MDXLayout"}))}m.isMDXComponent=!0}}]);
+//# sourceMappingURL=component---src-pages-index-mdx-4eddbae12170c7fe582f.js.map
